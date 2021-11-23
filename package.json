@@ -1,0 +1,30 @@
+{
+  "name": "serverless-churban-stack",
+  "version": "1.0.0",
+  "description": "✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/serverless-CHURBAN-stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/serverless-CHURBAN-stack/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/serverless-CHURBAN-stack#readme",
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3",
+    "netlify-cli": "^7.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
