@@ -1,4 +1,4 @@
-# Chrban Serverless Functions Repo:
+# Churban Serverless Functions Repo:
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
